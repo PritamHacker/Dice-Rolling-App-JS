@@ -1,0 +1,30 @@
+body {
+    background-color: #393E46;
+  }
+.container{
+    text-align: center;
+}
+.container h1{
+    font-size: 5rem;
+    color: #4ECCA3;
+    font-weight: 500;
+    font-family: 'Lobster', cursive;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+.dice p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-weight: 300;
+    font-family: 'Lobster', cursive;
+}
+img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    color: beige;
+}
